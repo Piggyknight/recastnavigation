@@ -10,6 +10,7 @@
 *.idb
 *.user
 *.tlog
+*.suo
 
 
 ## Linux exes have no extension
